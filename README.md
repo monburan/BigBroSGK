@@ -1,3 +1,3 @@
 # BigBroSGK 
 这是一个社工库...<br>
-正在构思中...
+使用Flask + MangoDB
